@@ -18,3 +18,6 @@ To stop the container,
 ```bash:
 docker compose down
 ```
+
+ソフトウェア工学第09回
+CI/CDの確認．
